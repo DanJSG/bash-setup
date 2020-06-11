@@ -14,7 +14,7 @@ sudo apt install curl
 sudo apt-get install -y net-tools
 sudo apt-get install -y gparted
 
-# Essential software 
+# Essential software
 sudo apt-get install -y git
 sudo apt-get install -y python3
 sudo apt-get install -y pip3
@@ -30,7 +30,7 @@ sudo apt install chromium-browser
 
 # Stuff installed with Snap
 sudo snap install node --classic --channel=14
-sudo snap install --classic code 
+sudo snap install --classic code
 sudo snap install postman
 
 # Install essential vscode extensions
