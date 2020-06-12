@@ -10,7 +10,7 @@ sudo apt upgrade
 
 # Useful tools
 sudo apt-get install -y wget
-sudo apt install curl
+sudo apt install -y curl
 sudo apt-get install -y net-tools
 sudo apt-get install -y gparted
 
@@ -21,12 +21,12 @@ sudo apt-get install -y pip3
 sudo apt install default-jdk
 sudo apt-get install -y gcc
 sudo apt-get install -y g++
-sudo apt install mysql-server
+sudo apt install -y mysql-server
 sudo apt-get install -y mongodb-org
 sudo apt-get install -y vlc
 sudo apt-get install -y gimp
 sudo apt-get install -y inkscape
-sudo apt install chromium-browser
+sudo apt install -y chromium-browser
 
 # Stuff installed with Snap
 sudo snap install node --classic --channel=14
@@ -47,3 +47,4 @@ code --install-extension gruntfuggly.todo-tree
 code --install-extension visualstudioexptteam.vscodeintellicode
 
 sudo apt upgrade
+sudo apt autoremove
