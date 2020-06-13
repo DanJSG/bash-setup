@@ -33,6 +33,7 @@ sudo apt-get install -y gcc | sudo tee -a $LOGPATH
 sudo apt-get install -y g++ | sudo tee -a $LOGPATH
 sudo apt install -y mysql-server | sudo tee -a $LOGPATH
 sudo apt-get install -y mongodb-org | sudo tee -a $LOGPATH
+sudo apt install -y yarn | sudo tee -a $LOGPATH
 
 # Useful appplications
 sudo apt-get install -y vlc | sudo tee -a $LOGPATH
