@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Eclipse EE
+Comment=Tools for java developers creating Java EE and Web applications, including a Java IDE, tools for Java EE, JPA, JSF, Mylyn and others.
+Exec=/bin/eclipse/eclipse
+Terminal=false
+Type=Application
+Icon=/bin/eclipse/icon.xpm
